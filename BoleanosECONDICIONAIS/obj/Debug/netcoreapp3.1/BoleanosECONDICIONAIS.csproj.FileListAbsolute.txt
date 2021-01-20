@@ -1,0 +1,13 @@
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\UsandoBooleanos\BoleanosECONDICIONAIS\obj\Debug\netcoreapp3.1\BoleanosECONDICIONAIS.csprojAssemblyReference.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\UsandoBooleanos\BoleanosECONDICIONAIS\obj\Debug\netcoreapp3.1\BoleanosECONDICIONAIS.AssemblyInfoInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\UsandoBooleanos\BoleanosECONDICIONAIS\obj\Debug\netcoreapp3.1\BoleanosECONDICIONAIS.AssemblyInfo.cs
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\UsandoBooleanos\BoleanosECONDICIONAIS\obj\Debug\netcoreapp3.1\BoleanosECONDICIONAIS.csproj.CoreCompileInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\UsandoBooleanos\BoleanosECONDICIONAIS\bin\Debug\netcoreapp3.1\BoleanosECONDICIONAIS.exe
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\UsandoBooleanos\BoleanosECONDICIONAIS\bin\Debug\netcoreapp3.1\BoleanosECONDICIONAIS.deps.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\UsandoBooleanos\BoleanosECONDICIONAIS\bin\Debug\netcoreapp3.1\BoleanosECONDICIONAIS.runtimeconfig.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\UsandoBooleanos\BoleanosECONDICIONAIS\bin\Debug\netcoreapp3.1\BoleanosECONDICIONAIS.runtimeconfig.dev.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\UsandoBooleanos\BoleanosECONDICIONAIS\bin\Debug\netcoreapp3.1\BoleanosECONDICIONAIS.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\UsandoBooleanos\BoleanosECONDICIONAIS\bin\Debug\netcoreapp3.1\BoleanosECONDICIONAIS.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\UsandoBooleanos\BoleanosECONDICIONAIS\obj\Debug\netcoreapp3.1\BoleanosECONDICIONAIS.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\UsandoBooleanos\BoleanosECONDICIONAIS\obj\Debug\netcoreapp3.1\BoleanosECONDICIONAIS.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\UsandoBooleanos\BoleanosECONDICIONAIS\obj\Debug\netcoreapp3.1\BoleanosECONDICIONAIS.genruntimeconfig.cache
